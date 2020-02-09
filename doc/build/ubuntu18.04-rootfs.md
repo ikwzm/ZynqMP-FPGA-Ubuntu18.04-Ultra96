@@ -298,7 +298,7 @@ shell$ sudo rm -f $targetdir/build-ubuntu18.04-rootfs.sh
 shell$ sudo mv    $targetdir/dpkg-list.txt files/ubuntu18.04-dpkg-list.txt
 ```
 
-### Build ubuntu18.04-rootfs-vanilla.tgz
+### Build ubuntu18.04-desktop-rootfs.tgz
 
 ```console
 shell$ cd $targetdir

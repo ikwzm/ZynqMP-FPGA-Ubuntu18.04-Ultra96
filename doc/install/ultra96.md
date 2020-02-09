@@ -22,7 +22,7 @@ shell$ git lfs pull
  
 ### Format SD-Card
 
-[./doc/install/format-disk-zynq.md](format-disk.md)
+[./doc/install/format-disk.md](format-disk.md)
 
 ### Write to SD-Card
 

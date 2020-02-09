@@ -49,6 +49,6 @@ Build
 
 * Build Boot Loader
   + [Ultra96](doc/build/ultra96-boot.md)
-  + [Ultra96](doc/build/ultra96v2-boot.md)
+  + [Ultra96-V2](doc/build/ultra96v2-boot.md)
 * [Build Linux Kernel](doc/build/linux-kernel.md)
 * [Build Ubuntu 18.04 Desktop RootFS](doc/build/ubuntu18.04-rootfs.md)

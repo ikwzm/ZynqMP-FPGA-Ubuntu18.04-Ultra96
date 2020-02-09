@@ -1,3 +1,5 @@
 *.tgz filter=lfs diff=lfs merge=lfs -text
-*.bin filter=lfs diff=lfs merge=lfs -text
-image-* filter=lfs diff=lfs merge=lfs -text
+target/Ultra96/boot/image-*    filter=lfs diff=lfs merge=lfs -text
+target/Ultra96/boot/*.bin      filter=lfs diff=lfs merge=lfs -text
+target/Ultra96-V2/boot/image-* filter=lfs diff=lfs merge=lfs -text
+target/Ultra96-V2/boot/*.bin   filter=lfs diff=lfs merge=lfs -text

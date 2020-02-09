@@ -29,5 +29,4 @@ shell$ cp ZynqMP-FPGA-Linux/target/Ultra96-V2/boot/devicetree-*.bin target/Ultra
 ## Reference
 
 * https://github.com/ikwzm/ZynqMP-FPGA-Linux
-
-
+  - https://github.com/ikwzm/ZynqMP-FPGA-Linux/blob/v2019.2.1/doc/build/linux-xlnx-v2019.2-zynqmp-fpga.md

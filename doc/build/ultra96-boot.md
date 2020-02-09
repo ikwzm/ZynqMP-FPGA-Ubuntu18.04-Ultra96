@@ -20,5 +20,6 @@ shell$ cp ZynqMP-FPGA-Linux/target/Ultra96/boot/boot_outer_shareable.bin target/
 ## Reference
 
 * https://github.com/ikwzm/ZynqMP-FPGA-Linux
+  - https://github.com/ikwzm/ZynqMP-FPGA-Linux/tree/v2019.2.1/target/Ultra96/build-v2019.2
 * https://github.com/ikwzm/ZynqMP-U-Boot-Ultra96
 
