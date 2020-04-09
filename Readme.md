@@ -40,9 +40,23 @@ No warranty, not intended for end product use, use at your own risk.
 Install
 ------------------------------------------------------------------------------------
 
-* Install to SD-Card
-  + [Ultra96](doc/install/ultra96.md)
-  + [Ultra96-V2](doc/install/ultra96v2.md)
+### Install to SD-Card
+
+* [Ultra96](doc/install/ultra96.md)
+* [Ultra96-V2](doc/install/ultra96v2.md)
+
+### Setup Ultra96 borad
+
+* Put the SD-Card in the slot on Ultra96.
+* Plug in your Display Port monitor into the Ultra96 using the mini Display Port connector.
+* Plug in a USB mouse and USB keyboard into the USB ports of the Ultra96.
+
+### Starting Ultra96 board
+
+* Turn on the Ultra96.
+* After a few seconds, the Ubuntu login screen will appear on the display.
+* Your username is "fpga". Password is set to "fpga". Please login.
+* The password for administrator rights is "admin".
 
 Build 
 ------------------------------------------------------------------------------------
