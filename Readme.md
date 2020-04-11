@@ -58,6 +58,12 @@ Install
 * Your username is "fpga". Password is set to "fpga". Please login.
 * The password for administrator rights is "admin".
 
+FAQ
+------------------------------------------------------------------------------------
+
+* [Change system console](doc/faq/change_system_console.md)
+* [Change boot runlevel](doc/faq/change_boot_runlevel.md)
+
 Build 
 ------------------------------------------------------------------------------------
 
